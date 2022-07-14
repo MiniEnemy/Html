@@ -1,0 +1,149 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+/* nav begins here */
+.navg img{
+    height: 40px;
+    width: 60px;
+}
+.navg{
+    background-color: brown;
+    padding: 20px;
+}
+.navg button a{
+    color: white !important;
+    background-color: brown !important;
+}
+.navg a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: white;
+    padding:10px;
+
+}
+.navg a:hover{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navg button a{
+    margin-left: 60px;
+}
+/* nav ends here */
+/* introduction page strts here */
+h3{
+    /* welcome to manic tours and travels */
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    margin: 40px;
+}
+    h4{
+        /* introduction */
+    margin: 30px;
+    font-weight: bold;
+    font-size: large;
+}
+.intro h4{
+    width: 10%;
+}
+.body{
+    display: flex;
+}
+.body p{
+    height: 130px;
+    background-color: green;
+}
+.mg img{
+    border: solid red 5px;
+    height: 195px;
+    margin-left: 80px;
+}
+.intro p{
+    margin-left: 20px;
+    width: 60%;
+}
+/* travel page strts here*/
+.trvel h3{
+    width: 200px;
+    margin-left: 550px;
+}
+.dad{
+    width: 100%;
+    display: flex;
+}
+.dad p{
+    font-size: large;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.son1{
+    margin-right: 26px;
+    width: 100%;
+}
+.son1 img{
+    border: solid rgb(0, 247, 255) 5px;
+    width: 100%;
+}
+.son1 p{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.son2{
+    margin-right: 26px;
+    width: 100%;
+}
+.son2 img{
+    border: solid rgb(43, 255, 0) 5px;
+    width: 100%;
+}
+.son2 p{
+    margin-top: 10px;
+}
+.son3{  
+    margin-right: 26px;
+    width: 100%;
+}
+.son3 img{
+    border: solid rgb(160, 40, 40) 5px;
+    width: 100%;
+}
+.son3 p{
+    margin-top: 10px;
+}
+.son4{
+    
+    margin-right: 26px;
+    width: 100%;
+}
+.son4 img{
+    border: solid grey 5px;
+    width: 100%;
+}
+.son4 p{
+    margin-top: 10px;
+}
+/* links hover */
+.dad .son1 a:hover{
+    color: rgb(0, 247, 255);
+}
+.dad .son2 a:hover{
+    color: green;
+}
+.dad .son3 a:hover{
+    color: brown;
+}
+.dad .son4 a:hover{
+    color: grey;
+}
+/* links hover */
+/* Footers */
+footer{
+    background-color: brown;
+    height: 70px;
+    text-align: center  ;
+}
+.txt p{
+    margin-top: 30px;
+}

@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+/* nav begins here */
+nav img{
+    width: 4px;
+}
+nav{
+    margin-bottom: 30px;
+    background-color: brown;
+    padding: 20px;
+}
+nav a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: white;
+    padding:10px;
+    margin: 10px;
+}
+nav a:hover{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    background-color:white;
+    color: red;
+}
+/* nav ends here */
+/* body begins here */
+h3{
+    /* welcome to manic tours and travels */
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    margin: 40px;
+}
+/* Body*/
+.intro h2{
+    text-align: center;
+}
+.intro h4{
+    margin: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: solid  ;
+}
+.intro img{
+    width: 100%;
+}
+#info{
+    margin: 40px;
+}
